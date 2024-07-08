@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/My_RPG_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/ABP_RPG_Character.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/Mannequins/Materials/Instances/Quinn/Quinn_Blue_02.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/Mannequins/Materials/Instances/Quinn/Quinn_Blue_01.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PW/R9OXWOMEUI41BGRA81T5PD.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y9/6R7SCS7V75S8B9WLPAJC1O.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Blueprints/BP_Dummy.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Blueprints/BPI_Assassination.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZJ/P2A23BKAQQ5MH96OAGJUIH.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/UI/WB_AssassinatePrompt.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Characters/Mannequins/Materials/Instances/Quinn/Manny_Blue.uasset"
+			]
+		}
+	]
+}
