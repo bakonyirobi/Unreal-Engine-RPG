@@ -38,6 +38,8 @@
 				"D:/Unreal Projects/My_RPG_Project/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
 				"D:/Unreal Projects/My_RPG_Project/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
 				"D:/Unreal Projects/My_RPG_Project/Content/UI/WB_AssassinatePrompt.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset",
+				"D:/Unreal Projects/My_RPG_Project/Content/UI/WB_HUD.uasset",
 				"D:/Unreal Projects/My_RPG_Project/Content/Characters/Mannequins/Materials/Instances/Quinn/Manny_Blue.uasset"
 			]
 		}

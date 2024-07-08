@@ -1089,3 +1089,1757 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.07.08-16.23.32:400][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=1
 [2024.07.08-16.23.32:401][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2024.07.08-16.24.36:839][751]LogDerivedDataCache: C:/Users/Fiuk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.039 and deleted 0 files with total size 0 MiB. Scanned 1346 files in 1340 folders with total size 38 MiB.
+[2024.07.08-17.00.13:349][742]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.08-17.00.13:349][742]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.08-17.00.13:349][742]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.08-17.00.46:812][742]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.08-17.00.46:829][742]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.07.08-17.00.46:836][742]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.07.08-17.00.46:854][743]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.07.08-17.00.59:881][796]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_Player_Stats
+[2024.07.08-17.00.59:905][796]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.07.08-17.07.56:970][400]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPC_Player_Stats.BPC_Player_Stats
+[2024.07.08-17.07.56:971][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-17.08.00:166][714]LogSlate: Window 'BPC_Player_Stats' being destroyed
+[2024.07.08-17.08.39:095][977]LogSlate: Took 0.120310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.07.08-17.12.38:019][615]LogContentBrowser: Attempting asset rename: BPC_Player_Stats -> BPC_Player_Stats
+[2024.07.08-17.12.43:512][255]LogContentBrowser: Attempting asset rename: BPC_Player_Stats -> BPC_PlayerStats
+[2024.07.08-17.12.43:843][255]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.SKEL_BPC_PlayerStats_C' ref from Metadata '/Game/Blueprints/BPC_Player_Stats.PackageMetaData'
+[2024.07.08-17.12.43:843][255]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats_C' ref from Metadata '/Game/Blueprints/BPC_Player_Stats.PackageMetaData'
+[2024.07.08-17.12.43:843][255]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BPC_Player_Stats.PackageMetaData'
+[2024.07.08-17.12.43:843][255]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BPC_Player_Stats.PackageMetaData'
+[2024.07.08-17.12.43:843][255]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.SKEL_BPC_PlayerStats_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BPC_Player_Stats.PackageMetaData'
+[2024.07.08-17.12.43:843][255]LogMetaData: Removing '/Game/Blueprints/BPC_PlayerStats.SKEL_BPC_PlayerStats_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BPC_Player_Stats.PackageMetaData'
+[2024.07.08-17.12.43:942][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-17.12.43:988][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-17.12.43:994][255]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.005053 seconds
+[2024.07.08-17.12.44:034][255]LogSerialization: UsePackageTrailer: 'true'
+[2024.07.08-17.12.44:043][255]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-17.12.44:043][255]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats66E9811740E8644FB67E609B7C772B0D.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-17.12.44:067][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms
+[2024.07.08-17.12.44:167][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.08-17.12.44:199][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.08-17.12.44:231][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.08-17.12.44:235][255]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-17.12.44:258][255]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-17.14.15:069][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.08-17.14.15:070][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2024.07.08-17.14.15:070][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-17.14.15:070][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-17.14.15:072][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto1
+[2024.07.08-17.14.15:072][784]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto15A2C7DB14A9A17277E478192C18965EA.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto1.uasset'
+[2024.07.08-17.14.15:073][784]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.07.08-17.16.18:965][151]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.07.08-17.16.18:965][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-17.16.34:970][992]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-17.16.34:970][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-17.17.50:101][510]LogEditorTransaction: Undo Align Top
+[2024.07.08-17.23.36:712][227]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-17.23.36:748][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.08-17.23.45:973][319]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-17.23.46:006][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.08-17.24.36:105][429]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-17.24.36:139][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.08-17.24.37:840][628]LogDerivedDataCache: C:/Users/Fiuk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.039 and deleted 0 files with total size 0 MiB. Scanned 1347 files in 1341 folders with total size 38 MiB.
+[2024.07.08-17.25.03:430][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.08-17.25.03:431][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2024.07.08-17.25.03:431][917]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-17.25.03:431][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-17.25.03:434][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto2
+[2024.07.08-17.25.03:434][917]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto230D19E4542A9BC9A0020B0BC0ADB5FE8.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto2.uasset'
+[2024.07.08-17.25.03:434][917]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.07.08-17.25.11:856][813]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-17.25.11:889][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.08-17.25.28:427][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-17.25.28:460][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-17.25.28:464][225]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-17.25.28:464][225]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsF9569CF64D99685FBA86099F52465969.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-17.25.28:467][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 184 ms)
+[2024.07.08-17.25.28:470][225]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-17.25.28:470][225]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-17.34.22:977][397]LogSlate: Window 'Source Control Login' being destroyed
+[2024.07.08-17.35.03:967][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.08-17.35.03:968][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.07.08-17.35.03:968][660]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-17.35.03:968][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-17.35.03:972][660]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto3
+[2024.07.08-17.35.03:972][660]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto354D9CBF545BF922963742AB3DFE286FB.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto3.uasset'
+[2024.07.08-17.35.03:973][660]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.07.08-17.45.03:987][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.08-17.45.03:987][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2024.07.08-17.45.03:988][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-17.45.03:988][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-17.45.03:992][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto4
+[2024.07.08-17.45.03:992][488]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto44D76CE4F4798265E160E46829D065B3A.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto4.uasset'
+[2024.07.08-17.45.03:992][488]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.07.08-17.55.04:223][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.08-17.55.04:224][ 25]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.07.08-17.55.04:224][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-17.55.04:224][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-17.55.04:229][ 25]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto5
+[2024.07.08-17.55.04:230][ 25]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto57C572E5B4EB9AC898ACBCFB6C71BB9E9.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto5.uasset'
+[2024.07.08-17.55.04:230][ 25]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.07.08-18.24.37:833][462]LogDerivedDataCache: C:/Users/Fiuk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.031 and deleted 0 files with total size 0 MiB. Scanned 1347 files in 1341 folders with total size 38 MiB.
+[2024.07.08-18.55.52:184][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.07.08-18.55.52:184][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.07.08-18.55.52:185][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-18.55.52:185][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-18.55.52:190][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto6
+[2024.07.08-18.55.52:190][705]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto638BE5EFC40DB58C55E14B497E39B434C.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto6.uasset'
+[2024.07.08-18.55.52:191][705]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.07.08-19.02.18:747][639]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-19.02.18:784][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.08-19.02.19:455][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-19.02.19:486][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-19.02.19:494][711]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-19.02.19:494][711]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats398978EF41AA925B4FECCF9935F3344C.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-19.02.19:497][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 227 ms)
+[2024.07.08-19.02.19:501][711]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-19.02.19:501][711]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-19.05.52:638][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.08-19.05.52:639][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.07.08-19.05.52:639][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-19.05.52:639][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-19.05.52:646][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto7
+[2024.07.08-19.05.52:646][ 89]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto7F534DBAC4E8840011405188195A0F2DF.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto7.uasset'
+[2024.07.08-19.05.52:647][ 89]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.07.08-19.10.22:107][650]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-19.10.22:145][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.07.08-19.10.22:709][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-19.10.22:756][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-19.10.22:764][710]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-19.10.22:764][710]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats4648350D49B9CBEA2DD3D49E211101DF.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-19.10.22:768][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 286 ms)
+[2024.07.08-19.10.22:771][710]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-19.10.22:771][710]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-19.12.47:693][679]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-19.12.47:733][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.07.08-19.12.48:274][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-19.12.48:308][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-19.12.48:606][734]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-19.12.48:606][734]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsF7A3890149F817885ED41E834DD61430.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-19.12.48:610][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 335 ms (total: 622 ms)
+[2024.07.08-19.12.48:614][734]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-19.12.48:614][734]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-19.13.50:233][850]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.07.08-19.13.50:238][850]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.07.08-19.13.50:242][850]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.07.08-19.13.50:307][851]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.07.08-19.13.54:986][407]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_HUD
+[2024.07.08-19.13.54:997][407]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.07.08-19.14.08:898][895]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_HUD.WB_HUD
+[2024.07.08-19.14.08:898][895]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-19.14.08:907][895]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-19.14.08:974][895]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.07.08-19.14.09:384][895]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.07.08-19.14.09:385][895]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.07.08-19.14.10:296][895]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.07.08-19.14.10:356][895]LogSlate: Took 0.035994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.08-19.18.31:483][344]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.08-19.19.59:561][352]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.08-19.21.34:278][982]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.08-19.21.58:786][890]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.08-19.24.36:860][321]LogDerivedDataCache: C:/Users/Fiuk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.057 and deleted 0 files with total size 0 MiB. Scanned 1347 files in 1341 folders with total size 38 MiB.
+[2024.07.08-19.26.25:528][836]BlueprintLog: New page: Compile WB_HUD
+[2024.07.08-19.26.25:614][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.08-19.26.26:469][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-19.26.26:533][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_HUD" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/UI/WB_HUD.uasset" SILENT=true
+[2024.07.08-19.26.26:562][918]LogSavePackage: Moving output files for package: /Game/UI/WB_HUD
+[2024.07.08-19.26.26:562][918]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/WB_HUD435C1B634909D34549C0F68D26514432.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/UI/WB_HUD.uasset'
+[2024.07.08-19.26.26:568][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 721 ms)
+[2024.07.08-19.26.26:572][918]AssetCheck: New page: Asset Save: WB_HUD
+[2024.07.08-19.26.26:572][918]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_HUD.WB_HUD
+[2024.07.08-19.26.55:546][101]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.26.55:547][101]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: ================================================
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: Total job queries 120, among them cache hits 5 (4.17%)
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 92 distinct outputs (80.00%)
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: RAM used: 0.99 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.07.08-19.26.55:582][103]LogShaderCompilers: Display: ================================================
+[2024.07.08-19.27.59:730][748]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.08-19.27.59:730][748]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.08-19.27.59:730][748]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.08-19.29.05:881][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.07.08-19.29.05:883][740]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.046
+[2024.07.08-19.29.05:883][740]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.07.08-19.29.05:892][740]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.05:892][740]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.05:969][740]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.07.08-19.29.06:011][740]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.07.08-19.29.06:011][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.07.08-19.29.06:040][740]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2024.07.08-19.29.06:041][740]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacter_Auto8875F39CD4CC3445B003F5F9C984B2F70.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2024.07.08-19.29.06:041][740]LogFileHelpers: Auto-saving content packages took 0.160
+[2024.07.08-19.29.18:750][117]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.18:750][117]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.18:752][117]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.18:752][117]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.18:753][117]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.18:753][117]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.38:154][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.38:154][568]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.38:156][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.38:156][568]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.38:157][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.38:157][568]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.41:565][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.41:565][943]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.41:566][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.41:566][943]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.29.41:567][943]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.29.41:567][943]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.25:733][970]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.25:733][970]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.25:734][970]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.25:734][970]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.25:735][970]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.25:735][970]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.39:171][551]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.39:172][551]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.39:279][564]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.39:279][564]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.39:296][566]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.39:296][566]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.39:313][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.39:313][568]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.39:329][570]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.39:329][570]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:613][724]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:613][724]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:630][726]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:630][726]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:647][728]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:647][728]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:649][728]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:649][728]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:662][730]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:662][730]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:664][730]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:664][730]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:679][732]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:679][732]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:696][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:696][734]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:712][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:712][736]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:729][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:729][738]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:746][740]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:746][740]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:747][740]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:747][740]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:763][742]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:763][742]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:764][742]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:764][742]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:779][744]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:779][744]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:796][746]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:796][746]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:813][748]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:813][748]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:838][751]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:838][751]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:888][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:888][757]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:904][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:905][759]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:921][761]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:921][761]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:938][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:938][763]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:955][765]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:955][765]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:956][765]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:956][765]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:971][767]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:971][767]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:973][767]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:973][767]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.40:988][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.40:988][769]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:005][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:005][771]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:263][802]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:263][802]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:264][802]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:264][802]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:280][804]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:280][804]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:296][806]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:296][806]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:313][808]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:313][808]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:330][810]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:330][810]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:346][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:346][812]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:348][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:348][812]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:363][814]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:363][814]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:364][814]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:364][814]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:380][816]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:380][816]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:397][818]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:397][818]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:412][820]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:412][820]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:429][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:429][822]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:446][824]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:446][824]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:447][824]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:447][824]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:463][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:463][826]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:513][832]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:513][832]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:887][877]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:888][877]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:904][879]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:904][879]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:921][881]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:921][881]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:938][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:938][883]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:954][885]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:954][885]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:956][885]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:956][885]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:971][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:971][887]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.41:972][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.41:972][887]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.43:440][ 63]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.43:440][ 63]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.43:441][ 63]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.43:441][ 63]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.43:442][ 63]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.43:442][ 63]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.43:445][ 63]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.08-19.30.54:959][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.54:959][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.54:960][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.54:960][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.54:961][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.54:961][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.55:028][432]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.55:028][432]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.55:029][432]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.55:029][432]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.55:030][432]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.55:030][432]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.55:031][432]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.08-19.30.59:557][958]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.59:557][958]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.59:559][958]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.59:559][958]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.59:560][958]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.30.59:560][958]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.30.59:609][964]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.08-19.31.11:362][363]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.08-19.31.11:392][363]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\My_RPG_Project\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2024.07.08-19.31.11:529][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-19.31.11:545][363]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.31.11:545][363]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.31.11:546][363]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.31.11:546][363]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.31.11:546][363]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.31.11:546][363]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.31.11:547][363]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.31.11:547][363]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.31.11:581][363]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.31.11:581][363]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.31.11:582][363]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.31.11:582][363]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.31.11:583][363]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.31.11:583][363]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.31.11:951][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-19.31.12:053][389]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.08-19.31.12:054][389]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacterE4EE9D0E483893F0852492967E83A546.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.08-19.31.12:061][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 832 ms)
+[2024.07.08-19.31.12:065][389]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.08-19.31.12:065][389]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.08-19.32.12:045][129]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.08-19.32.12:149][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.07.08-19.32.12:164][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.32.12:165][129]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.32.12:166][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.32.12:166][129]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.32.12:167][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.32.12:167][129]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.32.12:168][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.32.12:168][129]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.32.12:203][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.32.12:203][129]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.32.12:205][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.32.12:205][129]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.32.12:206][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.32.12:206][129]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.32.13:768][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-19.32.13:888][298]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.08-19.32.13:888][298]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacter47B7E60E4985AD865F2958A9CA166F8D.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.08-19.32.13:893][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 956 ms)
+[2024.07.08-19.32.13:897][298]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.08-19.32.13:897][298]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.08-19.32.38:818][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.08-19.32.38:822][456]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.07.08-19.32.38:838][456]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.08-19.32.38:838][456]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.08-19.32.38:838][456]LogWorldPartition: Display: GetPartitionedActors took 11 us
+[2024.07.08-19.32.38:841][456]LogWorldPartition: Display: GenerateStreaming took 17 ms
+[2024.07.08-19.32.38:842][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.08-19.32.38:871][456]PIE: New page: PIE session: ThirdPersonMap (2024. júl. 8. 23:32:38)
+[2024.07.08-19.32.38:873][456]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.07.08-19.32.38:873][456]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.07.08-19.32.38:873][456]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-19.32.38:877][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003013s)
+[2024.07.08-19.32.38:877][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003373s)
+[2024.07.08-19.32.38:877][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-19.32.38:877][456]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.08-19.32.38:877][456]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.07.08-19.32.38:877][456]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.08-19.32.38:877][456]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.08-19.32.38:878][456]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.07.08-19.32.38:878][456]LogWorldPartition: Display: WorldPartition initialize took 738 us (total: 4.89 sec)
+[2024.07.08-19.32.38:878][456]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2024.07.08-19.32.38:917][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-19.32.38:920][456]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.07.08-19.32.38:920][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.08-19.32.38:920][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.08-19.32.38:920][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.08-19.32.38:920][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.08-19.32.38:920][456]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.08-19.32.38:920][456]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.08-19.32.38:920][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.08-19.32.38:920][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.08-19.32.38:920][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.08-19.32.38:920][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.08-19.32.38:920][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.08-19.32.38:922][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.08-19.32.38:947][456]LogAudioMixer: Display: Using Audio Hardware Device Hangszórók (Realtek(R) Audio)
+[2024.07.08-19.32.38:947][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.08-19.32.38:947][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.08-19.32.38:947][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.08-19.32.38:948][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.07.08-19.32.38:948][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2024.07.08-19.32.38:949][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.07.08-19.32.38:949][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.07.08-19.32.38:949][456]LogInit: FAudioDevice initialized.
+[2024.07.08-19.32.38:949][456]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.07.08-19.32.39:021][456]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.08-19.32.39:023][456]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.07.08-21.32.39
+[2024.07.08-19.32.39:157][456]LogWorld: Bringing up level for play took: 0.136263
+[2024.07.08-19.32.39:159][456]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.07.08-19.32.39:367][456]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-19.32.39:367][456]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-19.32.39:368][456]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.07.08-19.32.39:469][456]PIE: Server logged in
+[2024.07.08-19.32.39:469][456]PIE: Play in editor total start time 0,648 seconds.
+[2024.07.08-19.32.45:242][ 40]LogShaderCompilers: Display: ================================================
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: Total job queries 133, among them cache hits 10 (7.52%)
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: Tracking 123 distinct input hashes that result in 99 distinct outputs (80.49%)
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: RAM used: 1.04 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.07.08-19.32.45:243][ 40]LogShaderCompilers: Display: ================================================
+[2024.07.08-19.32.50:647][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-19.32.50:647][677]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-19.32.50:659][677]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.08-19.32.50:659][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-19.32.50:659][677]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.07.08-19.32.50:662][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.08-19.32.50:665][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-19.32.50:705][677]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.08-19.32.50:712][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.08-19.32.50:713][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.08-19.32.50:716][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-19.32.50:733][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.07.08-19.32.50:809][678]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.07.08-19.39.18:344][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.07.08-19.39.18:366][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZJ/P2A23BKAQQ5MH96OAGJUIH_Auto9
+[2024.07.08-19.39.18:366][152]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/P2A23BKAQQ5MH96OAGJUIH_Auto98369C54346ACD737D3308F929F7FA18E.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZJ/P2A23BKAQQ5MH96OAGJUIH_Auto9.uasset'
+[2024.07.08-19.39.18:366][152]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.078
+[2024.07.08-19.39.18:366][152]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2024.07.08-19.39.18:367][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-19.39.18:367][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-19.39.18:400][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto9
+[2024.07.08-19.39.18:400][152]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto9B0BF5A5C47CCAE2364D396B0DE34E2CA.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto9.uasset'
+[2024.07.08-19.39.18:401][152]LogFileHelpers: Auto-saving content packages took 0.034
+[2024.07.08-19.51.04:223][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.08-19.51.04:224][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.044
+[2024.07.08-19.51.04:225][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-19.51.04:225][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-19.51.04:233][ 29]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto0
+[2024.07.08-19.51.04:233][ 29]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto019B903DC4FEC2D80C228189F0C065BBD.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto0.uasset'
+[2024.07.08-19.51.04:233][ 29]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.07.08-19.56.57:444][198]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-19.56.57:497][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.08-19.56.58:056][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-19.56.58:082][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-19.56.58:092][254]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-19.56.58:093][254]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsF0DEAEED465C1AB4139206B387ADC901.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-19.56.58:096][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 996 ms)
+[2024.07.08-19.56.58:100][254]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-19.56.58:100][254]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.01.04:577][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.07.08-20.01.04:578][797]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.041
+[2024.07.08-20.01.04:578][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-20.01.04:578][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-20.01.04:588][797]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto1
+[2024.07.08-20.01.04:588][797]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto157F4909646B33085AAEECDA2711AC005.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto1.uasset'
+[2024.07.08-20.01.04:589][797]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.07.08-20.01.51:129][219]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.01.51:180][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.08-20.01.52:018][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.01.52:068][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.01.52:078][308]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.01.52:078][308]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats86B592A14B6D6F23C31382806589235F.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.01.52:082][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.06 sec)
+[2024.07.08-20.01.52:086][308]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.01.52:086][308]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.03.59:438][827]LogEditorTransaction: Undo Move Node
+[2024.07.08-20.03.59:837][835]LogEditorTransaction: Undo Move Node
+[2024.07.08-20.04.00:161][859]LogEditorTransaction: Undo Create Reroute Node
+[2024.07.08-20.04.00:478][894]LogEditorTransaction: Undo Create Pin Link
+[2024.07.08-20.04.00:823][933]LogEditorTransaction: Undo Create Pin Link
+[2024.07.08-20.04.01:136][968]LogEditorTransaction: Undo Create Pin Link
+[2024.07.08-20.04.01:450][  3]LogEditorTransaction: Undo Move Nodes
+[2024.07.08-20.04.05:692][509]LogEditorTransaction: Undo Move Nodes
+[2024.07.08-20.04.06:406][541]LogEditorTransaction: Undo Move Nodes
+[2024.07.08-20.04.06:931][601]LogEditorTransaction: Undo Move Nodes
+[2024.07.08-20.04.07:536][671]LogEditorTransaction: Undo Move Node
+[2024.07.08-20.04.07:997][724]LogEditorTransaction: Undo Move Nodes
+[2024.07.08-20.04.12:271][233]LogEditorTransaction: Undo Move Node
+[2024.07.08-20.04.14:747][476]LogEditorTransaction: Undo Move Nodes
+[2024.07.08-20.05.33:888][638]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.05.33:941][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.07.08-20.05.34:963][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.05.35:019][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.05.35:031][749]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.05.35:031][749]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsD78D86C24BF60067176AE7A90948612F.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.05.35:034][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.13 sec)
+[2024.07.08-20.05.35:039][749]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.05.35:039][749]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.06.27:265][400]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.06.27:315][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.07.08-20.06.27:936][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.06.27:986][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.06.27:997][462]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.06.27:997][462]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats444FE6A241D9B3B7238E1EACDB81F3A3.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.06.28:001][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.19 sec)
+[2024.07.08-20.06.28:005][462]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.06.28:005][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.08.14:672][818]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.08.14:726][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.08-20.08.15:473][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.08.15:504][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.08.15:516][895]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.08.15:516][895]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsDDCD921F40C481EF5685B18B5E08D4E7.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.08.15:520][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.24 sec)
+[2024.07.08-20.08.15:524][895]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.08.15:524][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.09.09:450][899]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.09.09:505][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.08-20.09.10:229][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.09.10:288][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.09.10:299][977]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.09.10:300][977]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats6AE2E0E74ECF36D331D879B6530B4474.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.09.10:303][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.31 sec)
+[2024.07.08-20.09.10:308][977]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.09.10:308][977]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.10.54:406][651]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.10.54:462][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.08-20.10.54:907][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.10.54:939][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.10.54:951][693]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.10.54:951][693]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsC19C97FD4BA202DC77869DBD29FA0306.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.10.54:955][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.36 sec)
+[2024.07.08-20.10.54:959][693]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.10.54:959][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.11.13:351][864]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.11.13:351][864]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.11.13:354][864]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.11.13:354][864]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.11.13:356][864]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.11.13:356][864]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.11.39:517][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-20.11.39:519][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.042
+[2024.07.08-20.11.39:519][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.07.08-20.11.39:553][512]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.07.08-20.11.39:553][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.07.08-20.11.39:580][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.07.08-20.11.39:581][512]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacter_Auto2C722E75D447AD25E087A90AD81369B7F.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.07.08-20.11.39:581][512]LogFileHelpers: Auto-saving content packages took 0.063
+[2024.07.08-20.12.49:851][643]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.08-20.12.49:959][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.07.08-20.12.49:978][643]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.12.49:978][643]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.12.49:979][643]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.12.49:979][643]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.12.49:981][643]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.12.49:981][643]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.12.49:982][643]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.12.49:982][643]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.12.50:030][643]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.12.50:030][643]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.12.50:031][643]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.12.50:031][643]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.12.50:033][643]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.12.50:033][643]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.12.50:831][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.12.50:935][721]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.08-20.12.50:935][721]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacter40E65B0144995988A8458B8017422ABC.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.08-20.12.50:940][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.47 sec)
+[2024.07.08-20.12.50:945][721]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.08-20.12.50:945][721]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.08-20.12.52:118][853]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.08-20.12.52:122][853]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.07.08-20.12.52:123][853]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.08-20.12.52:123][853]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.08-20.12.52:123][853]LogWorldPartition: Display: GetPartitionedActors took 3 us (total: 15 us)
+[2024.07.08-20.12.52:123][853]LogWorldPartition: Display: GenerateStreaming took 139 us (total: 17 ms)
+[2024.07.08-20.12.52:123][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.08-20.12.52:123][853]PIE: New page: PIE session: ThirdPersonMap (2024. júl. 9. 0:12:52)
+[2024.07.08-20.12.52:123][853]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.12.52:126][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002969s)
+[2024.07.08-20.12.52:126][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002985s)
+[2024.07.08-20.12.52:126][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-20.12.52:126][853]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.08-20.12.52:127][853]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.07.08-20.12.52:127][853]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.08-20.12.52:127][853]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.08-20.12.52:127][853]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.07.08-20.12.52:127][853]LogWorldPartition: Display: WorldPartition initialize took 688 us (total: 4.89 sec)
+[2024.07.08-20.12.52:127][853]LogPlayLevel: PIE: World Init took: (0.001290s)
+[2024.07.08-20.12.52:168][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-20.12.52:171][853]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.07.08-20.12.52:171][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.08-20.12.52:171][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.08-20.12.52:171][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.08-20.12.52:171][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.08-20.12.52:171][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.08-20.12.52:171][853]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.08-20.12.52:171][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.08-20.12.52:171][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.08-20.12.52:172][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.08-20.12.52:172][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.08-20.12.52:172][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.08-20.12.52:173][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.08-20.12.52:198][853]LogAudioMixer: Display: Using Audio Hardware Device Hangszórók (Realtek(R) Audio)
+[2024.07.08-20.12.52:198][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.08-20.12.52:198][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.08-20.12.52:198][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.08-20.12.52:198][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.07.08-20.12.52:198][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=3
+[2024.07.08-20.12.52:200][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.07.08-20.12.52:200][853]LogInit: FAudioDevice initialized.
+[2024.07.08-20.12.52:200][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.07.08-20.12.52:200][853]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.07.08-20.12.52:243][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.12.52:243][853]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.08-20.12.52:246][853]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.07.08-22.12.52
+[2024.07.08-20.12.52:247][853]LogWorld: Bringing up level for play took: 0.003055
+[2024.07.08-20.12.52:248][853]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.07.08-20.12.52:249][853]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.12.52:249][853]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.12.52:249][853]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.07.08-20.12.52:254][853]PIE: Server logged in
+[2024.07.08-20.12.52:257][853]PIE: Play in editor total start time 0,136 seconds.
+[2024.07.08-20.12.52:263][853]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.08-20.13.03:103][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.13.03:103][ 36]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.13.03:104][ 36]LogSlate: Window 'My_RPG_Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.08-20.13.03:108][ 36]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.08-20.13.03:108][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.13.03:108][ 36]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.07.08-20.13.03:110][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.08-20.13.03:114][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.13.03:156][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.08-20.13.03:157][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.08-20.13.03:162][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.07.08-20.13.03:170][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.07.08-20.15.32:703][358]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.15.32:803][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.08-20.15.32:809][358]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.15.32:809][358]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.15.32:810][358]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.15.32:811][358]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.15.32:812][358]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.15.32:812][358]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.15.32:816][358]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.15.32:816][358]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.15.32:818][358]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.15.32:818][358]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.15.32:819][358]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.15.32:819][358]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.15.33:252][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.15.33:307][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.15.33:319][399]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.15.33:320][399]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats5248938E4D02D8A5AA9E19946FD77B7A.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.15.33:324][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.54 sec)
+[2024.07.08-20.15.33:329][399]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.15.33:329][399]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.15.37:518][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.15.37:646][872]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.08-20.15.37:646][872]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacterA5D4606B481A5E3653D938BD19B65199.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.08-20.15.37:652][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 1.68 sec)
+[2024.07.08-20.15.37:657][872]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.08-20.15.37:657][872]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.08-20.15.52:761][653]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.08-20.15.52:765][653]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.07.08-20.15.52:765][653]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.08-20.15.52:765][653]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.08-20.15.52:765][653]LogWorldPartition: Display: GetPartitionedActors took 3 us (total: 19 us)
+[2024.07.08-20.15.52:766][653]LogWorldPartition: Display: GenerateStreaming took 141 us (total: 18 ms)
+[2024.07.08-20.15.52:766][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.08-20.15.52:766][653]PIE: New page: PIE session: ThirdPersonMap (2024. júl. 9. 0:15:52)
+[2024.07.08-20.15.52:766][653]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.15.52:769][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003040s)
+[2024.07.08-20.15.52:769][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003056s)
+[2024.07.08-20.15.52:769][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-20.15.52:769][653]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.08-20.15.52:769][653]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.07.08-20.15.52:769][653]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.08-20.15.52:769][653]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.08-20.15.52:770][653]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.07.08-20.15.52:770][653]LogWorldPartition: Display: WorldPartition initialize took 722 us (total: 4.89 sec)
+[2024.07.08-20.15.52:770][653]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2024.07.08-20.15.52:810][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.07.08-20.15.52:812][653]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.07.08-20.15.52:812][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.08-20.15.52:812][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.08-20.15.52:812][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.08-20.15.52:812][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.08-20.15.52:812][653]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.08-20.15.52:812][653]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.08-20.15.52:812][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.08-20.15.52:812][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.08-20.15.52:812][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.08-20.15.52:812][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.08-20.15.52:812][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.08-20.15.52:813][653]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.08-20.15.52:838][653]LogAudioMixer: Display: Using Audio Hardware Device Hangszórók (Realtek(R) Audio)
+[2024.07.08-20.15.52:838][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.08-20.15.52:838][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.08-20.15.52:838][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.08-20.15.52:838][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.07.08-20.15.52:838][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=4
+[2024.07.08-20.15.52:839][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.07.08-20.15.52:840][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.07.08-20.15.52:840][653]LogInit: FAudioDevice initialized.
+[2024.07.08-20.15.52:840][653]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.07.08-20.15.52:894][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.15.52:894][653]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.08-20.15.52:896][653]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.07.08-22.15.52
+[2024.07.08-20.15.52:897][653]LogWorld: Bringing up level for play took: 0.003080
+[2024.07.08-20.15.52:898][653]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.07.08-20.15.52:899][653]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.15.52:899][653]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.15.52:899][653]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.07.08-20.15.52:904][653]PIE: Server logged in
+[2024.07.08-20.15.52:907][653]PIE: Play in editor total start time 0,142 seconds.
+[2024.07.08-20.15.52:913][653]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.08-20.16.01:773][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.16.01:773][676]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.16.01:774][676]LogSlate: Window 'My_RPG_Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.08-20.16.01:778][676]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.08-20.16.01:779][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.16.01:779][676]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.07.08-20.16.01:780][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.08-20.16.01:784][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.16.01:824][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.08-20.16.01:825][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.08-20.16.01:830][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.07.08-20.16.01:843][677]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.07.08-20.16.39:545][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.39:545][115]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.39:548][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.39:548][115]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.39:549][115]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.39:549][115]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.42:935][513]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.08-20.16.43:046][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.08-20.16.43:064][513]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.43:064][513]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.43:065][513]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.43:065][513]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.43:067][513]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.43:067][513]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.43:068][513]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.43:068][513]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.43:117][513]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.43:117][513]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.43:119][513]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.43:119][513]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.43:120][513]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.43:120][513]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.43:579][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.16.43:674][550]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.08-20.16.43:674][550]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacterE2FD98CD456EEDBA19833B9E8604974B.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.08-20.16.43:679][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.78 sec)
+[2024.07.08-20.16.43:684][550]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.08-20.16.43:684][550]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.08-20.16.46:460][880]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.08-20.16.46:464][880]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.07.08-20.16.46:465][880]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.08-20.16.46:465][880]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.08-20.16.46:465][880]LogWorldPartition: Display: GetPartitionedActors took 3 us (total: 22 us)
+[2024.07.08-20.16.46:465][880]LogWorldPartition: Display: GenerateStreaming took 138 us (total: 18 ms)
+[2024.07.08-20.16.46:465][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.08-20.16.46:465][880]PIE: New page: PIE session: ThirdPersonMap (2024. júl. 9. 0:16:46)
+[2024.07.08-20.16.46:465][880]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.16.46:468][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002973s)
+[2024.07.08-20.16.46:468][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002989s)
+[2024.07.08-20.16.46:468][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-20.16.46:468][880]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.08-20.16.46:469][880]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.07.08-20.16.46:469][880]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.08-20.16.46:469][880]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.08-20.16.46:469][880]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.07.08-20.16.46:469][880]LogWorldPartition: Display: WorldPartition initialize took 703 us (total: 4.89 sec)
+[2024.07.08-20.16.46:469][880]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2024.07.08-20.16.46:510][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.07.08-20.16.46:513][880]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.08-20.16.46:513][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.08-20.16.46:513][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.08-20.16.46:513][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.08-20.16.46:513][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.08-20.16.46:513][880]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.08-20.16.46:513][880]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.08-20.16.46:513][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.08-20.16.46:513][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.08-20.16.46:513][880]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.08-20.16.46:513][880]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.08-20.16.46:513][880]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.08-20.16.46:515][880]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.08-20.16.46:539][880]LogAudioMixer: Display: Using Audio Hardware Device Hangszórók (Realtek(R) Audio)
+[2024.07.08-20.16.46:540][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.08-20.16.46:540][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.08-20.16.46:540][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.08-20.16.46:540][880]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.08-20.16.46:540][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=5
+[2024.07.08-20.16.46:541][880]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.08-20.16.46:541][880]LogInit: FAudioDevice initialized.
+[2024.07.08-20.16.46:541][880]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.08-20.16.46:541][880]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.07.08-20.16.46:593][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.16.46:593][880]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.08-20.16.46:596][880]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.07.08-22.16.46
+[2024.07.08-20.16.46:596][880]LogWorld: Bringing up level for play took: 0.003061
+[2024.07.08-20.16.46:597][880]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.07.08-20.16.46:598][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.46:598][880]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.46:599][880]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.07.08-20.16.46:603][880]PIE: Server logged in
+[2024.07.08-20.16.46:607][880]PIE: Play in editor total start time 0,143 seconds.
+[2024.07.08-20.16.46:613][880]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.08-20.16.52:342][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.16.52:342][534]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.16.52:342][534]LogSlate: Window 'My_RPG_Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.08-20.16.52:347][534]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.08-20.16.52:347][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.16.52:348][534]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.07.08-20.16.52:349][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.08-20.16.52:353][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.16.52:394][534]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.08-20.16.52:394][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.08-20.16.52:395][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.08-20.16.52:400][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.07.08-20.16.52:410][535]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.07.08-20.16.59:153][340]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.08-20.16.59:261][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.08-20.16.59:277][340]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.59:277][340]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.59:279][340]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.59:279][340]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.59:280][340]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.59:280][340]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.59:281][340]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.59:281][340]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.59:329][340]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.59:329][340]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.59:331][340]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.59:331][340]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.59:332][340]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.16.59:332][340]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.16.59:762][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.16.59:879][372]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.08-20.16.59:880][372]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacter43E0BE2C4BD05853E4C45BB86DE4CFA4.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.08-20.16.59:884][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1.90 sec)
+[2024.07.08-20.16.59:889][372]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.08-20.16.59:889][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.08-20.17.01:995][615]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.08-20.17.01:999][615]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.07.08-20.17.02:000][615]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.08-20.17.02:000][615]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.08-20.17.02:000][615]LogWorldPartition: Display: GetPartitionedActors took 2 us (total: 25 us)
+[2024.07.08-20.17.02:000][615]LogWorldPartition: Display: GenerateStreaming took 137 us (total: 18 ms)
+[2024.07.08-20.17.02:000][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.08-20.17.02:000][615]PIE: New page: PIE session: ThirdPersonMap (2024. júl. 9. 0:17:02)
+[2024.07.08-20.17.02:000][615]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.17.02:003][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003043s)
+[2024.07.08-20.17.02:003][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003058s)
+[2024.07.08-20.17.02:003][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-20.17.02:003][615]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.08-20.17.02:004][615]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.07.08-20.17.02:004][615]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.08-20.17.02:004][615]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.08-20.17.02:004][615]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.07.08-20.17.02:004][615]LogWorldPartition: Display: WorldPartition initialize took 703 us (total: 4.89 sec)
+[2024.07.08-20.17.02:004][615]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2024.07.08-20.17.02:045][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-20.17.02:048][615]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.08-20.17.02:048][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.08-20.17.02:048][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.08-20.17.02:048][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.08-20.17.02:048][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.08-20.17.02:048][615]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.08-20.17.02:048][615]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.08-20.17.02:048][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.08-20.17.02:048][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.08-20.17.02:048][615]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.08-20.17.02:048][615]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.08-20.17.02:048][615]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.08-20.17.02:050][615]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.08-20.17.02:074][615]LogAudioMixer: Display: Using Audio Hardware Device Hangszórók (Realtek(R) Audio)
+[2024.07.08-20.17.02:074][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.08-20.17.02:074][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.08-20.17.02:074][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.08-20.17.02:075][615]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.07.08-20.17.02:075][615]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=6
+[2024.07.08-20.17.02:076][615]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.07.08-20.17.02:076][615]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.07.08-20.17.02:076][615]LogInit: FAudioDevice initialized.
+[2024.07.08-20.17.02:076][615]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.07.08-20.17.02:110][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.17.02:110][615]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.08-20.17.02:112][615]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.07.08-22.17.02
+[2024.07.08-20.17.02:113][615]LogWorld: Bringing up level for play took: 0.003026
+[2024.07.08-20.17.02:114][615]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.07.08-20.17.02:115][615]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.17.02:115][615]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.17.02:115][615]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.07.08-20.17.02:120][615]PIE: Server logged in
+[2024.07.08-20.17.02:123][615]PIE: Play in editor total start time 0,124 seconds.
+[2024.07.08-20.17.02:129][615]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.08-20.17.14:792][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.17.14:792][ 93]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.17.14:793][ 93]LogSlate: Window 'My_RPG_Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.08-20.17.14:798][ 93]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.08-20.17.14:798][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.17.14:798][ 93]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.07.08-20.17.14:799][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.08-20.17.14:803][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.17.14:845][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.08-20.17.14:845][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.08-20.17.14:846][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.08-20.17.14:851][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-20.17.14:860][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.07.08-20.20.34:991][821]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.08-20.22.23:429][597]BlueprintLog: New page: Compile WB_HUD
+[2024.07.08-20.22.23:505][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.07.08-20.22.23:510][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.22.23:510][597]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.22.23:512][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.22.23:512][597]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.22.23:514][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.22.23:514][597]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.22.23:537][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.22.23:538][597]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.22.23:539][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.22.23:539][597]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.22.23:541][597]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.22.23:541][597]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.22.24:016][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.22.24:063][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_HUD" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/UI/WB_HUD.uasset" SILENT=true
+[2024.07.08-20.22.24:065][633]LogSavePackage: Moving output files for package: /Game/UI/WB_HUD
+[2024.07.08-20.22.24:066][633]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/WB_HUD6F94E66844C25166F60201AF8A934839.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/UI/WB_HUD.uasset'
+[2024.07.08-20.22.24:069][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.95 sec)
+[2024.07.08-20.22.24:074][633]AssetCheck: New page: Asset Save: WB_HUD
+[2024.07.08-20.22.24:074][633]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_HUD.WB_HUD
+[2024.07.08-20.24.37:838][ 18]LogDerivedDataCache: C:/Users/Fiuk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.033 and deleted 0 files with total size 0 MiB. Scanned 1347 files in 1341 folders with total size 38 MiB.
+[2024.07.08-20.25.26:315][809]LogEditorTransaction: Undo Delete current selection
+[2024.07.08-20.25.47:024][234]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.25.47:126][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.08-20.25.47:131][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.25.47:131][234]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.25.47:133][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.25.47:133][234]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.25.47:135][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.25.47:135][234]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.25.47:139][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.25.47:139][234]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.25.47:141][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.25.47:141][234]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.25.47:142][234]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.25.47:142][234]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.25.47:765][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.25.47:795][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.25.47:807][295]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.25.47:808][295]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsA445D2FC4A205C1222C5A2A54D09B81C.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.25.47:811][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.00 sec)
+[2024.07.08-20.25.47:816][295]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.25.47:816][295]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.26.00:966][710]LogEditorTransaction: Undo Move Nodes
+[2024.07.08-20.27.02:606][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.08-20.27.02:609][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZJ/P2A23BKAQQ5MH96OAGJUIH_Auto3
+[2024.07.08-20.27.02:609][440]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/P2A23BKAQQ5MH96OAGJUIH_Auto39DDE3A0140DB8E70B0BEC7839CF2DCC6.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZJ/P2A23BKAQQ5MH96OAGJUIH_Auto3.uasset'
+[2024.07.08-20.27.02:609][440]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.045
+[2024.07.08-20.27.02:609][440]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2024.07.08-20.27.02:610][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-20.27.02:610][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-20.27.02:622][440]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto3
+[2024.07.08-20.27.02:622][440]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto381FEA7A1451652C5869411A850DC729A.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto3.uasset'
+[2024.07.08-20.27.02:622][440]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.07.08-20.27.28:042][431]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.27.28:117][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.08-20.27.28:122][431]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.27.28:122][431]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.27.28:123][431]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.27.28:123][431]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.27.28:125][431]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.27.28:125][431]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.27.28:130][431]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.27.28:130][431]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.27.28:131][431]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.27.28:131][431]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.27.28:133][431]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.27.28:133][431]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.27.28:707][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.27.28:746][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.27.28:759][488]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.27.28:760][488]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats3F8AE0154A6D4291B24B858241CBE7C4.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.27.28:763][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.06 sec)
+[2024.07.08-20.27.28:768][488]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.27.28:768][488]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.28.59:450][608]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.28.59:529][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.08-20.28.59:533][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.28.59:533][608]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.28.59:534][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.28.59:534][608]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.28.59:536][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.28.59:536][608]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.28.59:541][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.28.59:541][608]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.28.59:542][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.28.59:542][608]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.28.59:544][608]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.28.59:544][608]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.29.00:181][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.29.00:214][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.29.00:227][671]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.29.00:228][671]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats282B90A44AD34A7BCB973293A4D3AD3D.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.29.00:231][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.11 sec)
+[2024.07.08-20.29.00:235][671]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.29.00:235][671]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.30.30:743][705]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.30.30:821][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.07.08-20.30.30:825][705]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.30.30:825][705]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.30.30:827][705]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.30.30:827][705]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.30.30:829][705]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.30.30:829][705]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.30.30:833][705]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.30.30:833][705]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.30.30:835][705]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.30.30:835][705]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.30.30:837][705]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.30.30:837][705]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.30.31:399][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.30.31:447][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.30.31:461][757]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.30.31:462][757]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsDB45F0E14F936565D3A01493D3D5A7BB.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.30.31:466][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.17 sec)
+[2024.07.08-20.30.31:471][757]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.30.31:471][757]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.30.44:950][ 84]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.08-20.30.44:954][ 84]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.07.08-20.30.44:955][ 84]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.08-20.30.44:955][ 84]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.08-20.30.44:955][ 84]LogWorldPartition: Display: GetPartitionedActors took 3 us (total: 29 us)
+[2024.07.08-20.30.44:955][ 84]LogWorldPartition: Display: GenerateStreaming took 141 us (total: 18 ms)
+[2024.07.08-20.30.44:955][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.08-20.30.44:955][ 84]PIE: New page: PIE session: ThirdPersonMap (2024. júl. 9. 0:30:44)
+[2024.07.08-20.30.44:955][ 84]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.30.44:958][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003162s)
+[2024.07.08-20.30.44:958][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003179s)
+[2024.07.08-20.30.44:958][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-20.30.44:959][ 84]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.08-20.30.44:959][ 84]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.07.08-20.30.44:959][ 84]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.08-20.30.44:959][ 84]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.08-20.30.44:960][ 84]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.07.08-20.30.44:960][ 84]LogWorldPartition: Display: WorldPartition initialize took 748 us (total: 4.89 sec)
+[2024.07.08-20.30.44:960][ 84]LogPlayLevel: PIE: World Init took: (0.001452s)
+[2024.07.08-20.30.44:999][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.07.08-20.30.45:001][ 84]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.07.08-20.30.45:001][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.08-20.30.45:001][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.08-20.30.45:001][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.08-20.30.45:001][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.08-20.30.45:001][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.08-20.30.45:001][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.08-20.30.45:001][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.08-20.30.45:001][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.08-20.30.45:001][ 84]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.08-20.30.45:001][ 84]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.08-20.30.45:001][ 84]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.08-20.30.45:002][ 84]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.08-20.30.45:028][ 84]LogAudioMixer: Display: Using Audio Hardware Device Hangszórók (Realtek(R) Audio)
+[2024.07.08-20.30.45:028][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.08-20.30.45:028][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.08-20.30.45:028][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.08-20.30.45:029][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.07.08-20.30.45:029][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=7
+[2024.07.08-20.30.45:030][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.07.08-20.30.45:030][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.07.08-20.30.45:030][ 84]LogInit: FAudioDevice initialized.
+[2024.07.08-20.30.45:030][ 84]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.07.08-20.30.45:082][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.30.45:082][ 84]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.08-20.30.45:085][ 84]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.07.08-22.30.45
+[2024.07.08-20.30.45:086][ 84]LogWorld: Bringing up level for play took: 0.003092
+[2024.07.08-20.30.45:087][ 84]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.07.08-20.30.45:088][ 84]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.30.45:088][ 84]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.30.45:088][ 84]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.07.08-20.30.45:091][ 84]PIE: Server logged in
+[2024.07.08-20.30.45:093][ 84]PIE: Play in editor total start time 0,139 seconds.
+[2024.07.08-20.30.45:099][ 84]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.08-20.31.02:451][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.31.02:451][122]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.31.02:452][122]LogSlate: Window 'My_RPG_Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.08-20.31.02:458][122]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.08-20.31.02:458][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.31.02:458][122]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.07.08-20.31.02:460][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.08-20.31.02:463][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.31.02:505][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.08-20.31.02:506][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.08-20.31.02:507][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.08-20.31.02:511][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-20.31.02:521][123]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.07.08-20.41.03:497][583]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.41.03:503][583]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\My_RPG_Project\Content\Blueprints\BPC_PlayerStats.uasset: [Compiler] This blueprint (self) is not a ProgressBar, therefore ' Target ' must have a connection.
+[2024.07.08-20.41.03:579][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-20.41.03:583][583]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.41.03:583][583]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.41.03:585][583]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.41.03:585][583]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.41.03:587][583]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.41.03:587][583]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.41.03:592][583]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.41.03:592][583]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.41.03:594][583]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.41.03:594][583]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.41.03:595][583]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.41.03:595][583]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.41.03:902][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.41.03:953][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.41.03:969][607]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.41.03:969][607]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats7D17C23A41F99C198D6D97B3F64CC5A9.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.41.03:975][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.25 sec)
+[2024.07.08-20.41.03:979][607]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.41.03:979][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.43.13:823][245]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.43.13:902][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.08-20.43.13:906][245]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.43.13:906][245]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.43.13:908][245]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.43.13:908][245]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.43.13:910][245]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.43.13:910][245]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.43.13:915][245]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.43.13:915][245]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.43.13:916][245]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.43.13:916][245]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.43.13:918][245]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.43.13:918][245]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.43.14:871][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.43.14:921][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.43.14:938][344]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.43.14:938][344]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStatsC92624024EB07AD3152D12B0DF94E2FC.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.43.14:944][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.32 sec)
+[2024.07.08-20.43.14:948][344]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.43.14:948][344]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.47.27:115][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-20.47.27:116][452]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.043
+[2024.07.08-20.47.27:117][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPC_PlayerStats] ([2] browsable assets)...
+[2024.07.08-20.47.27:117][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPC_PlayerStats]
+[2024.07.08-20.47.27:134][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto4
+[2024.07.08-20.47.27:135][452]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats_Auto4FB6910AB48AEC394302C88B1C44E57D5.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/Blueprints/BPC_PlayerStats_Auto4.uasset'
+[2024.07.08-20.47.27:135][452]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.07.08-20.50.16:177][424]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.50.16:263][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.07.08-20.50.16:274][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.50.16:274][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.50.16:275][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.50.16:276][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.50.16:277][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.50.16:277][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.50.16:282][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.50.16:282][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.50.16:284][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.50.16:284][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.50.16:285][424]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.50.16:285][424]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.50.17:049][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.50.17:091][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.50.17:111][501]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.50.17:111][501]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats2166C7DA4B58CF4CFC52F28819F3FE7B.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.50.17:116][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.39 sec)
+[2024.07.08-20.50.17:121][501]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.50.17:121][501]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.55.33:995][497]BlueprintLog: New page: Compile BPC_PlayerStats
+[2024.07.08-20.55.34:072][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.08-20.55.34:083][497]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.55.34:083][497]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.55.34:085][497]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.55.34:085][497]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.55.34:087][497]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.55.34:087][497]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.55.34:092][497]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.55.34:092][497]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.55.34:094][497]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.55.34:094][497]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.55.34:095][497]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.55.34:095][497]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.55.35:087][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.55.35:126][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_PlayerStats" FILE="../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset" SILENT=true
+[2024.07.08-20.55.35:145][599]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_PlayerStats
+[2024.07.08-20.55.35:146][599]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BPC_PlayerStats769956654BDC6A8576C2A883308B92EA.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/Blueprints/BPC_PlayerStats.uasset'
+[2024.07.08-20.55.35:150][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.45 sec)
+[2024.07.08-20.55.35:155][599]AssetCheck: New page: Asset Save: BPC_PlayerStats
+[2024.07.08-20.55.35:155][599]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats
+[2024.07.08-20.57.10:679][125]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.08-20.57.10:795][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.07.08-20.57.10:812][125]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.57.10:812][125]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.57.10:813][125]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.57.10:813][125]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.57.10:815][125]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.57.10:815][125]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.57.10:817][125]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.57.10:817][125]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.57.10:871][125]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.57.10:871][125]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.57.10:873][125]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.57.10:873][125]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.57.10:875][125]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.57.10:875][125]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.57.11:788][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.08-20.57.11:907][214]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.08-20.57.11:908][214]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/BP_ThirdPersonCharacter4D957C61440946DB1169B49CDFA16DFE.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.08-20.57.11:913][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2.57 sec)
+[2024.07.08-20.57.11:917][214]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.08-20.57.11:917][214]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.08-20.57.12:964][324]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.08-20.57.12:967][324]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.07.08-20.57.12:968][324]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.08-20.57.12:968][324]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.08-20.57.12:968][324]LogWorldPartition: Display: GetPartitionedActors took 3 us (total: 32 us)
+[2024.07.08-20.57.12:968][324]LogWorldPartition: Display: GenerateStreaming took 146 us (total: 18 ms)
+[2024.07.08-20.57.12:969][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.08-20.57.12:969][324]PIE: New page: PIE session: ThirdPersonMap (2024. júl. 9. 0:57:12)
+[2024.07.08-20.57.12:969][324]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.57.12:972][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003130s)
+[2024.07.08-20.57.12:972][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003146s)
+[2024.07.08-20.57.12:972][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.08-20.57.12:972][324]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.08-20.57.12:972][324]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.07.08-20.57.12:972][324]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.08-20.57.12:973][324]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.08-20.57.12:973][324]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.07.08-20.57.12:973][324]LogWorldPartition: Display: WorldPartition initialize took 703 us (total: 4.90 sec)
+[2024.07.08-20.57.12:973][324]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2024.07.08-20.57.13:014][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.08-20.57.13:016][324]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.08-20.57.13:016][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.08-20.57.13:016][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.08-20.57.13:016][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.08-20.57.13:016][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.08-20.57.13:016][324]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.08-20.57.13:016][324]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.08-20.57.13:016][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.08-20.57.13:016][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.08-20.57.13:016][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.08-20.57.13:016][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.08-20.57.13:016][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.08-20.57.13:018][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.08-20.57.13:042][324]LogAudioMixer: Display: Using Audio Hardware Device Hangszórók (Realtek(R) Audio)
+[2024.07.08-20.57.13:043][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.08-20.57.13:043][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.08-20.57.13:043][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.08-20.57.13:043][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.08-20.57.13:043][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=8
+[2024.07.08-20.57.13:044][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.08-20.57.13:044][324]LogInit: FAudioDevice initialized.
+[2024.07.08-20.57.13:044][324]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.07.08-20.57.13:044][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.08-20.57.13:095][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.57.13:095][324]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.08-20.57.13:098][324]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.07.08-22.57.13
+[2024.07.08-20.57.13:098][324]LogWorld: Bringing up level for play took: 0.003120
+[2024.07.08-20.57.13:100][324]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.07.08-20.57.13:100][324]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.07.08-20.57.13:100][324]LogScript: Warning: Last function called:
+	/Game/Characters/RPG_Character/Animations/ABP_RPG_Character.ABP_RPG_Character_C.ExecuteUbergraph_ABP_RPG_Character
+
+[2024.07.08-20.57.13:101][324]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2024.07.08-20.57.13:101][324]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BPC_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_PlayerStats
+	Function /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats_C:ExecuteUbergraph_BPC_PlayerStats:00F2
+[2024.07.08-20.57.13:101][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BPC Player Stats Blueprint:  BPC_PlayerStats
+[2024.07.08-20.57.13:101][324]LogScript: Warning: Accessed None
+	BPC_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_PlayerStats
+	Function /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats_C:ExecuteUbergraph_BPC_PlayerStats:0107
+[2024.07.08-20.57.13:102][324]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BPC Player Stats Blueprint:  BPC_PlayerStats
+[2024.07.08-20.57.13:102][324]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BPC_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_PlayerStats
+	Function /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats_C:ExecuteUbergraph_BPC_PlayerStats:0194
+[2024.07.08-20.57.13:102][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BPC Player Stats Blueprint:  BPC_PlayerStats
+[2024.07.08-20.57.13:102][324]LogScript: Warning: Accessed None
+	BPC_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_PlayerStats
+	Function /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats_C:ExecuteUbergraph_BPC_PlayerStats:01A9
+[2024.07.08-20.57.13:102][324]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph BPC Player Stats Blueprint:  BPC_PlayerStats
+[2024.07.08-20.57.13:102][324]LogScript: Warning: Accessed None trying to read property HUD Widget
+	BPC_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_PlayerStats
+	Function /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats_C:ExecuteUbergraph_BPC_PlayerStats:0228
+[2024.07.08-20.57.13:102][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HUD Widget". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BPC Player Stats Blueprint:  BPC_PlayerStats
+[2024.07.08-20.57.13:102][324]LogScript: Warning: Accessed None
+	BPC_PlayerStats_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_PlayerStats
+	Function /Game/Blueprints/BPC_PlayerStats.BPC_PlayerStats_C:ExecuteUbergraph_BPC_PlayerStats:023D
+[2024.07.08-20.57.13:102][324]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph BPC Player Stats Blueprint:  BPC_PlayerStats
+[2024.07.08-20.57.13:106][324]PIE: Server logged in
+[2024.07.08-20.57.13:110][324]PIE: Play in editor total start time 0,142 seconds.
+[2024.07.08-20.57.13:116][324]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.08-20.57.21:558][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.08-20.57.21:558][297]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.08-20.57.21:559][297]LogSlate: Window 'My_RPG_Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.08-20.57.21:563][297]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.08-20.57.21:564][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.57.21:564][297]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.07.08-20.57.21:565][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.08-20.57.21:569][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.08-20.57.21:609][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.08-20.57.21:609][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.08-20.57.21:610][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.08-20.57.21:615][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.07.08-20.57.21:723][298]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.07.08-20.58.11:180][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.07.08-20.58.11:182][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZJ/P2A23BKAQQ5MH96OAGJUIH_Auto5
+[2024.07.08-20.58.11:182][238]LogSavePackage: Moving '../../../../../Unreal Projects/My_RPG_Project/Saved/P2A23BKAQQ5MH96OAGJUIH_Auto55353A9294805FDB67AA9D6A2206DCC71.tmp' to '../../../../../Unreal Projects/My_RPG_Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZJ/P2A23BKAQQ5MH96OAGJUIH_Auto5.uasset'
+[2024.07.08-20.58.11:183][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.043
+[2024.07.08-20.58.11:183][238]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2024.07.08-21.15.45:383][446]LogSlate: Window 'Source Control Login' being destroyed
